@@ -1,0 +1,44 @@
+[
+  {
+    "name": "arthur",
+    "password": "password1",
+    "profession": "doctor",
+    "id": 1
+  },
+  {
+    "name": "arthur",
+    "password": "password1",
+    "profession": "king",
+    "id": 1
+  },
+  {
+    "name": "kendal",
+    "password": "password3",
+    "profession": "code fiddler",
+    "id": 2
+  },
+  {
+    "name": "may",
+    "password": "password2",
+    "profession": "brexit destroyer",
+    "id": 3
+  },
+  {
+    "name": "john",
+    "password": "password1",
+    "profession": "king",
+    "id": 4
+  },
+  {
+    "name": "michael",
+    "password": "password3",
+    "profession": "code fiddler",
+    "id": 5
+  },
+  {
+    "name": "bubico",
+    "password": "password2",
+    "profession": "brexit destroyer",
+    "id": 6
+  }
+]
